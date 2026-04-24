@@ -7,3 +7,10 @@ button{
     color: green;
     margin: 10px;
 }
+ #items{
+    position: absolute;
+    left: 30px;
+    bottom: 100px;
+    
+    display: none;
+}
