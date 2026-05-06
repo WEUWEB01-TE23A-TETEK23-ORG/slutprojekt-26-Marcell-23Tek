@@ -7,10 +7,18 @@ button{
     color: green;
     margin: 10px;
 }
- #items{
+#items{
     position: absolute;
     left: 30px;
     bottom: 100px;
     
     display: none;
+}
+#death_screen{
+    
+    margin: auto;
+    text-align: center;
+}
+#death{
+    margin-top: 220px;
 }
